@@ -1,0 +1,22 @@
+{
+  "name": "hotel",
+  "version": "1.0.0",
+  "description": "Service for search of hotel rooms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oddwang37/toxinHotel.git"
+  },
+  "author": "Vladislav Selivanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oddwang37/toxinHotel/issues"
+  },
+  "homepage": "https://github.com/oddwang37/toxinHotel#readme",
+  "devDependencies": {
+    "pug": "^3.0.2"
+  }
+}
